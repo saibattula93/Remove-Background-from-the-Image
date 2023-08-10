@@ -59,10 +59,12 @@ The architecture of the solution involves:
 Below are examples of input images and their corresponding outputs after applying the U2-Net-based background removal process:
 
 #### Input Image:
-https://github.com/saibattula93/Remove-Background-from-the-Image/blob/main/static/inputs/0e66fc27-f6c9-4de9-a3b6-ceae299539c7.jpg
+![Sample Image](https://github.com/saibattula93/Remove-Background-from-the-Image/blob/main/static/inputs/0e66fc27-f6c9-4de9-a3b6-ceae299539c7.jpg)
+
 
 #### Output Image:
-https://github.com/saibattula93/Remove-Background-from-the-Image/blob/main/static/results/0e66fc27-f6c9-4de9-a3b6-ceae299539c7.png
+![Sample Image](https://github.com/saibattula93/Remove-Background-from-the-Image/blob/main/static/results/0e66fc27-f6c9-4de9-a3b6-ceae299539c7.png)
+
 
 ## Conclusion
 
