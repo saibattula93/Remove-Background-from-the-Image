@@ -55,6 +55,15 @@ The architecture of the solution involves:
 4. **Post-processing:** The model's output is used to separate the salient object from the background. The background can be replaced or removed entirely.
 5. **Output:** The processed image with the background removed or replaced is displayed to the user.
 
+## Sample Images and Outputs
+Below are examples of input images and their corresponding outputs after applying the U2-Net-based background removal process:
+
+#### Input Image:
+https://github.com/saibattula93/Remove-Background-from-the-Image/blob/main/static/inputs/0e66fc27-f6c9-4de9-a3b6-ceae299539c7.jpg
+
+#### Output Image:
+https://github.com/saibattula93/Remove-Background-from-the-Image/blob/main/static/results/0e66fc27-f6c9-4de9-a3b6-ceae299539c7.png
+
 ## Conclusion
 
 This project leverages the U2-Net model's advanced capabilities for salient object detection to develop a solution for removing backgrounds from images. The primary goal is to create a user-friendly tool that meets the functional and non-functional requirements while achieving accurate and efficient background removal. Through careful methodology and architectural design, the project aims to provide a valuable resource for users in various domains where image background removal is essential.
